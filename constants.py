@@ -1,1 +1,1 @@
-COLLECTION = "hotels"
+COLLECTION = "users"
