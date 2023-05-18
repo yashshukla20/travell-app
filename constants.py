@@ -1,1 +1,1 @@
-CONTACT = "contact"
+COLLECTION = "hotels"
