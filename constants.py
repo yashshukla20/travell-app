@@ -1,1 +1,1 @@
-COLLECTION = "airlines"
+CONTACT = "contact"
